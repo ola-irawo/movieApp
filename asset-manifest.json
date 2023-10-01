@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/movieApp/static/css/main.ad3e633d.css",
-    "main.js": "/movieApp/static/js/main.1c0cef35.js",
+    "main.css": "/movieApp/static/css/main.9fffb667.css",
+    "main.js": "/movieApp/static/js/main.b721a005.js",
     "static/js/787.28cb0dcd.chunk.js": "/movieApp/static/js/787.28cb0dcd.chunk.js",
     "static/media/pizzza dine.mp4": "/movieApp/static/media/pizzza dine.0252dcde518808aea9f8.mp4",
     "static/media/faq.jpg": "/movieApp/static/media/faq.736333e6501253c494bb.jpg",
     "static/media/tv.jpg": "/movieApp/static/media/tv.b72266f19d296b8f9882.jpg",
     "static/media/background.svg": "/movieApp/static/media/background.95bd8fa9da47d0bc3189.svg",
     "index.html": "/movieApp/index.html",
-    "main.ad3e633d.css.map": "/movieApp/static/css/main.ad3e633d.css.map",
-    "main.1c0cef35.js.map": "/movieApp/static/js/main.1c0cef35.js.map",
+    "main.9fffb667.css.map": "/movieApp/static/css/main.9fffb667.css.map",
+    "main.b721a005.js.map": "/movieApp/static/js/main.b721a005.js.map",
     "787.28cb0dcd.chunk.js.map": "/movieApp/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ad3e633d.css",
-    "static/js/main.1c0cef35.js"
+    "static/css/main.9fffb667.css",
+    "static/js/main.b721a005.js"
   ]
 }
